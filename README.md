@@ -1,2 +1,0 @@
-# mincecraft
-minecraft online
